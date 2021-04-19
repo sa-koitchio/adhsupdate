@@ -1,0 +1,9 @@
+[MenuJP]
+chooseSong = 曲を選ぶ
+chooseSongSub = （右クリックしてカスタムをロードします）
+skipIntro = [hold spacebar]スキップ
+noteSpeed = 音符の速度
+clickToChange = （クリックして変更）
+overlappingNotes = 重なっている音符
+ghostNotes = ゴーストノート
+playSong = 曲を再生する

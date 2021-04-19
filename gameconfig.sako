@@ -1,0 +1,7 @@
+[Main]
+loaderModel = 2
+useShaders = 1
+dRPC = 2
+showFPS = 0
+allowMods = 0
+language = 1
