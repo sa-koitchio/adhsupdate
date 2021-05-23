@@ -1,7 +1,8 @@
 [Main]
 loaderModel = 2
 useShaders = 1
-dRPC = 2
+dRPC = 1
 showFPS = 0
 allowMods = 0
 language = 1
+globalVolume = 3

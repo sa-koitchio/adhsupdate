@@ -1,5 +1,3 @@
-
-
 #Shaders#
 
 If you have trouble loading shaders on your device, open "gameconfig.sako" and set a "0" where it says "useShaders"
@@ -12,11 +10,11 @@ Set dRPC to 1: Using the "old" rpc api.
 .-----------2: Using "NekoPresence".
 .-----------0: Disables Discord Integration.
 
-#EXTENSIONS#
-Basically code not written by me but other awesome people.
+#Extensions / Libraries / Integrations#
+Basically code not written by me but other awesome people. Below's a list of all sources
 
 Extensions:
-"Bloom shader"
-"NekoPresence"
-"window_set_icon"
-"discord-rpc"
+"Bloom shader" (yy marketplace)
+"NekoPresence" (github)
+"window_set_icon" (yy marketplace)
+"discord-rpc" (some internet forum, made by Aouab)
